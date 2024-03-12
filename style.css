@@ -1,4 +1,5 @@
-headerbackground-color: aqua;
+header{
+background-color: aqua;
     color: aliceblue;
 }
 {
@@ -9,7 +10,8 @@ headerbackground-color: aqua;
     background-color: #424E61;
     color: white;
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    align-items: center;
 }
 
     
